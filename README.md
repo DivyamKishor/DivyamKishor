@@ -2,7 +2,7 @@
 - 👀 I’m interested in Coding, video games, chess, sports, reading novels, watching series, playing guitar, learning new skills.
 - 🌱 I’m currently learning to code on C++
 - 💞️ I’m looking to collaborate on a mini project
-- 📫 How to reach me at kishordivyam@gmail.com
+- 📫 Reach me at kishordivyam@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I am left handed 
 
