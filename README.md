@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DivyamKishor
-- 👀 I’m interested in Coding, video games, chess, sports, reading novels, watching series, playing guitar, learning new skills.
-- 🌱 I’m currently learning to code on C++
-- 💞️ I’m looking to collaborate on a mini project
+- 👀 I’m interested in learning new skills, coding, business, reading books...
+- 🌱 I can code on C++,C,Python and Java
+- 📽️ I’m currently working on multiple projects
 - 📫 Reach me at kishordivyam@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I am left handed 
