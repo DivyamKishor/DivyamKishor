@@ -81,7 +81,7 @@ These days I'm somewhere between:
 <p>
   <img src="https://skillicons.dev/icons?i=vercel,netlify" />
   <img src="https://github.com/railwayapp.png?size=96" width="48" height="48" alt="Railway" />
-  <img src="https://github.com/render.png?size=96" width="48" height="48" alt="Render" />
+  <img src="https://simpleicons.dev/icons?icons=render&theme=dark" width="48" height="48" alt="Render" />
   <img src="https://github.com/hostinger.png?size=96" width="48" height="48" alt="Hostinger" />
 </p>
 
