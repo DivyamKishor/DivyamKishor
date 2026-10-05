@@ -59,7 +59,7 @@ These days I'm somewhere between:
 ### Frontend & Applications
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,reactnative,electron" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,electron" />
 </p>
 
 ### Backend & Databases
@@ -68,10 +68,21 @@ These days I'm somewhere between:
   <img src="https://skillicons.dev/icons?i=nodejs,postgres,mysql" />
 </p>
 
-### Tools & Deployment
+### Development Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,railway" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+  <img src="https://github.com/cursor.png?size=96" width="48" height="48" alt="Cursor" />
+  <img src="https://www.antigravity.google/assets/image/brand/antigravity-icon__full-color.png" width="48" height="48" alt="Google Antigravity" />
+</p>
+
+### Hosting & Deployment
+
+<p>
+  <img src="https://skillicons.dev/icons?i=vercel,netlify" />
+  <img src="https://github.com/railwayapp.png?size=96" width="48" height="48" alt="Railway" />
+  <img src="https://github.com/render.png?size=96" width="48" height="48" alt="Render" />
+  <img src="https://github.com/hostinger.png?size=96" width="48" height="48" alt="Hostinger" />
 </p>
 
 ### Hardware / IoT
