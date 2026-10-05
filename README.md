@@ -1,12 +1,322 @@
-- 👋 Hi, I’m @DivyamKishor
-- 👀 I’m interested in learning new skills, coding, business, reading books...
-- 🌱 I can code on C++,C,Python and Java
-- 📽️ I’m currently working on multiple projects
-- 📫 Reach me at kishordivyam@gmail.com
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: I am left handed 
+<div align="center">
 
-<!---
-DivyamKishor/DivyamKishor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# Hey, I'm Divyam 👋
+
+### Information Science Engineering Student • Developer • Builder
+
+<p>
+  <a href="https://github.com/DivyamKishor">
+    <img src="https://img.shields.io/badge/GitHub-DivyamKishor-181717?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://www.linkedin.com/in/divyam-kishor/">
+    <img src="https://img.shields.io/badge/LinkedIn-Divyam%20Kishor-0A66C2?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://divyam-kishor-github-io.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-000000?style=for-the-badge&logo=vercel" />
+  </a>
+  <a href="mailto:kishordivyam@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+</div>
+
+---
+
+## `whoami`
+
+I'm **Divyam**, an Information Science Engineering student at **CMR Institute of Technology, Bengaluru**.
+
+I like taking ideas that start with a simple **"what if..."** and turning them into something that actually runs.
+
+I've worked across **software, hardware, databases and deployment** — from ESP32 prototypes and sensor-based systems to full-stack applications, production databases and cloud deployments.
+
+Former **Software Engineering Intern @ Insighte**, where I worked on a real production application and shipped changes used by real users.
+
+These days I'm somewhere between:
+
+`writing code` → `building things` → `debugging them` → `"why did that work?"`
+
+---
+
+## ⚡ A little about me
+
+- 🎓 **ISE @ CMR Institute of Technology, Bengaluru**
+- 💻 **C • C++ • Java • Python • JavaScript**
+- 🌐 **React • React Native • Electron**
+- ⚙️ **Node.js • APIs • Backend development**
+- 🗄️ **PostgreSQL • MySQL • Alembic**
+- ☁️ **Git • GitHub • Railway • Vercel**
+- 🔌 **ESP32 • Arduino • Sensors • IoT**
+- 🧩 Interested in **software engineering, systems, IoT & problem solving**
+- 📈 **300+ commits** and counting
+- 💼 Former **Software Engineering Intern @ Insighte**
+- ♟️ Chess enjoyer
+- 🌌 Anime + space enthusiast
+- ✋ Fun fact: **I'm left-handed**
+
+---
+
+# 🛠️ The Stack
+
+### Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript" />
+</p>
+
+### Frontend & Applications
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,reactnative,electron" />
+</p>
+
+### Backend & Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,postgres,mysql" />
+</p>
+
+### Tools & Deployment
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,railway" />
+</p>
+
+### Hardware / IoT
+
+<p>
+  <img src="https://skillicons.dev/icons?i=arduino" />
+</p>
+
+`ESP32` • `Sensors` • `Relays` • `Embedded Systems` • `IoT`
+
+---
+
+# 🚧 Things I've Built
+
+> A few projects from the intersection of code, hardware and ideas.
+
+### 🩺 [MediBot](https://github.com/DivyamKishor/MediBot)
+
+**Hardware Medical Assistant**
+
+An ESP32-based medical assistant designed to measure vital parameters using sensors including the **MAX30102 / MAX30105** and **MLX90614**.
+
+Built as a hardware project, presented at a technical event and recognized at a mini-project exhibition.
+
+**Built with:**  
+`ESP32` `Embedded Systems` `MAX30102` `MLX90614` `LCD`
+
+---
+
+### 💰 [TrackMo](https://github.com/DivyamKishor/TrackMo)
+
+**Student-focused personal finance tracker**
+
+A project exploring a simpler way for students to keep track of the money they receive, what they spend and where it goes — without turning personal finance into a spreadsheet.
+
+**Built around:**  
+`Finance Tracking` `UI/UX` `Web Development` `AI-assisted features`
+
+---
+
+### 👥 [FollowGram](https://github.com/DivyamKishor/FollowGram)
+
+**Instagram follower / following analysis**
+
+A project built around making exported Instagram data more useful — helping visualize and understand follower/following relationships.
+
+**Exploring:**  
+`Data Processing` `Web Development` `Visualization`
+
+---
+
+### 🛡️ DocuShield
+
+**Secure Document Sharing Platform**
+
+A secure document-sharing platform built across desktop and mobile, designed around controlled document access and secure workflows.
+
+**Built with:**  
+`Electron.js` `React Native` `JavaScript`
+
+---
+
+### 🥬 Vegy Cooler
+
+**Smart Cold Storage for Leafy Vegetables**
+
+A repurposed egg incubator transformed into a controlled environment for preserving leafy vegetables.
+
+The system combines temperature and humidity management with an ESP32-based control system.
+
+**Built with:**  
+`ESP32` `Sensors` `Humidifier` `Relays` `LCD` `IoT`
+
+---
+
+### 🥚 Universal IoT Egg Incubator
+
+**Smart incubation system**
+
+One of my earlier hardware projects that pushed me deeper into ESP32 programming, sensors, relays and real-world automation.
+
+**Built with:**  
+`ESP32` `Arduino` `Sensors` `Relays` `Embedded Systems`
+
+---
+
+### 🌐 City Village Hub
+
+**Digital Twin Platform for Gamified Rural Development**
+
+A concept combining digital twins, gamification and rural development to create a more interactive digital model of villages.
+
+The project reached the **second round of the Manthan competition**.
+
+**Exploring:**  
+`Digital Twins` `Gamification` `Rural Technology` `Platform Design`
+
+---
+
+# 💼 Experience
+
+### Software Engineering Intern — Insighte
+
+I worked on a real-world production application and got hands-on experience with the engineering problems that don't usually show up in classroom projects.
+
+**Worked with:**
+
+- Full-stack application development
+- PostgreSQL
+- Alembic database migrations
+- Git & GitHub workflows
+- Development / staging / production environments
+- Railway deployments
+- Vercel deployments
+- Environment configuration
+- Debugging production issues
+- Database management
+- Shipping changes used by real users
+
+> There's a difference between building something for a submission and building something people actually use.
+>
+> I got to experience the second one.
+
+---
+
+# 📊 GitHub Activity
+
+<p align="center">
+  <img src="https://img.shields.io/badge/300%2B-Commits-181717?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/github/followers/DivyamKishor?style=for-the-badge&logo=github&label=Followers" />
+  <img src="https://img.shields.io/github/stars/DivyamKishor?style=for-the-badge&logo=github&label=Stars" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DivyamKishor&show_icons=true&include_all_commits=true&hide_border=true&rank_icon=github" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DivyamKishor&layout=compact&hide_border=true&langs_count=8" />
+</p>
+
+---
+
+# 🔥 Consistency > Perfection
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=DivyamKishor&hide_border=true" />
+</p>
+
+---
+
+# 📈 The Contribution Trail
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DivyamKishor&hide_border=true&area=true" />
+</p>
+
+---
+
+# 🧠 What I'm Working Towards
+
+I'm trying to move from:
+
+```
+"I know this technology"
+```
+
+to:
+
+```
+"I can build something useful with it."
+```
+
+That means getting better at:
+
+- 🧩 Data Structures & Algorithms
+- 🏗️ Backend & System Design
+- 🌐 Full-Stack Engineering
+- 🗄️ Database Architecture
+- ☁️ Deployment & Production Engineering
+- 🔌 IoT & Embedded Systems
+- 🤖 Exploring where software meets hardware
+
+---
+
+# 🧪 My Development Cycle
+
+```
+       IDEA
+        │
+        ▼
+    PROTOTYPE
+        │
+        ▼
+      BUILD
+        │
+        ▼
+     BREAK IT
+        │
+        ▼
+     DEBUG IT
+        │
+        ▼
+      SHIP IT
+        │
+        ▼
+     LEARN IT
+        │
+        └──────────────► NEW IDEA
+```
+
+---
+
+# 🌎 Find Me
+
+<p align="center">
+  <a href="https://divyam-kishor-github-io.vercel.app/">
+    <img src="https://img.shields.io/badge/🌐%20Portfolio-Visit-111111?style=for-the-badge" />
+  </a>
+  <a href="https://www.linkedin.com/in/divyam-kishor/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://github.com/DivyamKishor">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" />
+  </a>
+  <a href="mailto:kishordivyam@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>Still learning. Still building. Still breaking things.</i>
+</p>
+
+<p align="center">
+  ⚡ <b>Fun fact:</b> I'm left-handed.
+</p>
