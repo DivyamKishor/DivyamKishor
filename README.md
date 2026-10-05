@@ -208,10 +208,12 @@ I worked on a real-world production application and got hands-on experience with
 
 # 📊 GitHub Activity
 
+<!-- PROFILE_STATS_START -->
 <p align="center">
   <img src="https://img.shields.io/badge/300%2B-Commits-181717?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/github/followers/DivyamKishor?style=for-the-badge&logo=github&label=Followers" />
-  <img src="https://img.shields.io/github/stars/DivyamKishor?style=for-the-badge&logo=github&label=Stars" />
+  <img src="https://img.shields.io/badge/Dynamic-Merged%20PRs-6f42c1?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dynamic-Open%20PRs-2ea44f?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dynamic-Repositories-0969da?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
 <p align="center">
@@ -221,6 +223,7 @@ I worked on a real-world production application and got hands-on experience with
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DivyamKishor&layout=compact&hide_border=true&langs_count=8" />
 </p>
+<!-- PROFILE_STATS_END -->
 
 ---
 
