@@ -5,17 +5,14 @@
 ### Information Science Engineering Student • Developer • Builder
 
 <p>
-  <a href="https://github.com/DivyamKishor">
-    <img src="https://img.shields.io/badge/GitHub-DivyamKishor-181717?style=for-the-badge&logo=github" />
-  </a>
   <a href="https://www.linkedin.com/in/divyam-kishor/">
-    <img src="https://img.shields.io/badge/LinkedIn-Divyam%20Kishor-0A66C2?style=for-the-badge&logo=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://divyam-kishor-github-io.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-000000?style=for-the-badge&logo=vercel" />
+    <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   <a href="mailto:kishordivyam@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
