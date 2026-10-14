@@ -17,7 +17,7 @@ jobs:
 
       - name: Update GitHub stats
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_STATS_TOKEN || secrets.GITHUB_TOKEN }}
         run: python scripts/update_profile_stats.py
 
       - name: Commit updated stats
