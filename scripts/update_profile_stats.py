@@ -28,15 +28,27 @@ def search_count(query):
     data = get("/search/issues", {"q": query, "per_page": 1})
     return data.get("total_count", 0)
 
-# GitHub search gives us a useful lifetime-facing view of authored activity.
-commit_count = search_count(f"author:{OWNER}")
+def commit_search_count(query):
+    # GitHub's commit-search endpoint returns total_count without needing to
+    # download every matching commit. Results are limited to GitHub-indexed
+    # commits visible to this token; inaccessible private repos are excluded.
+    data = get(
+        "/search/commits",
+        {"q": query, "per_page": 1},
+    )
+    return data.get("total_count", 0)
+
+# Use commit search for commits (not issue search). This is a searchable
+# count of commits GitHub attributes to this account, not a guarantee of every
+# commit in inaccessible private/deleted repositories or unindexed history.
+commit_count = commit_search_count(f"author:{OWNER}")
 merged_pr_count = search_count(f"author:{OWNER} is:pr is:merged")
 open_pr_count = search_count(f"author:{OWNER} is:pr is:open")
 repo_count = get(f"/users/{OWNER}/repos", {"per_page": 1, "type": "owner"}) .get("total_count", 0)
 
-# GitHub's public REST API does not expose an exact lifetime contribution total,
-# so the README labels these as searchable GitHub activity rather than claiming
-# they are the contribution-graph total.
+# The README badge reflects GitHub's searchable authored-commit total. This is
+# distinct from the contribution graph and may omit private repositories that
+# the workflow token cannot access.
 stats = f"""<!-- PROFILE_STATS_START -->
 <p align="center">
   <img src="https://img.shields.io/badge/{commit_count}%2B-Commits-181717?style=for-the-badge&logo=git&logoColor=white" />
