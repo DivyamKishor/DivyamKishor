@@ -58,7 +58,7 @@ stats = f"""<!-- PROFILE_STATS_START -->
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username={OWNER}&show_icons=true&include_all_commits=true&hide_border=true&rank_icon=github" />
+  <img src="https://github-readme-stats.vercel.app/api?username={OWNER}&show_icons=true&include_all_commits=true&hide=commits&hide_border=true&rank_icon=github" />
 </p>
 
 <p align="center">
